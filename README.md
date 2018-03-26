@@ -9,3 +9,5 @@ Sigmoid function as neuron activation function.
 k-fold cross-validation, performance evaluated by: precision, recall, F-score
 
 Run "NN_demonstration_digiClassification.m" for an example
+
+https://github.com/ttngu207/NeuralNet_Matlab.git
